@@ -1,0 +1,6 @@
+/home/vkuberan/my-projects/learn-c/linked-lists/build/CMakeFiles/double_ptr.dir
+/home/vkuberan/my-projects/learn-c/linked-lists/build/CMakeFiles/ll_01.dir
+/home/vkuberan/my-projects/learn-c/linked-lists/build/CMakeFiles/ll_02.dir
+/home/vkuberan/my-projects/learn-c/linked-lists/build/CMakeFiles/build_all.dir
+/home/vkuberan/my-projects/learn-c/linked-lists/build/CMakeFiles/edit_cache.dir
+/home/vkuberan/my-projects/learn-c/linked-lists/build/CMakeFiles/rebuild_cache.dir
