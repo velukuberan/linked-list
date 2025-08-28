@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/ll_02.dir/src/ll_02.c.o -o bin/ll_02 
