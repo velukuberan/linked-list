@@ -24,7 +24,6 @@ int main()
     return 0;
 }
 
-
 void print_list(Node *head)
 {
     Node *current;
