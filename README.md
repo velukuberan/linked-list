@@ -1,2 +1,2 @@
-# linked-list
+# Linked List
 Linked List
